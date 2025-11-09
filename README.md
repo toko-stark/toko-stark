@@ -9,15 +9,15 @@ Currently exploring modern web technologies, performance optimization, and clean
 
 ### 🧠 About Me
 - 🔭 Working on personal productivity tools and automation scripts  
-- 🌱 Learning **React.js**, **Node.js** and always improving current skills
-- 🧰 Love building with **HTML/CSS**, **Node.js**
+- 🌱 Learning **React.js**, **Node.js** and always improving current skills  
+- 🧰 Love building with **HTML/CSS**, **Node.js**  
 - ⚡ Fun fact: I enjoy optimizing small details that improve user experience
 
 ---
 
 ### 🛠️ Tech Stack
 **Languages:**  
-`JavaScript` · `Html5` . `Css3`
+`JavaScript` · `HTML5` · `CSS3`
 
 ---
 
@@ -29,8 +29,8 @@ Currently exploring modern web technologies, performance optimization, and clean
 ---
 
 ### 📫 Connect With Me
-[![GitHub](https://img.shields.io/badge/GitHub-toko--stark-181717?style=for-the-badge&logo=github)](https://github.com/toko-stark))
-[![Discord]([https://discord.com/users/789894696176058368](https://img.shields.io/badge/Discord-toko__stark-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/789894696176058368))
+[![GitHub](https://img.shields.io/badge/GitHub-toko--stark-181717?style=for-the-badge&logo=github)](https://github.com/toko-stark)
+[![Discord](https://img.shields.io/badge/Discord-toko__stark-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/789894696176058368)
 
 ---
 
