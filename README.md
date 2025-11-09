@@ -29,7 +29,7 @@ Currently exploring modern web technologies, performance optimization, and clean
 ---
 
 ### 📫 Connect With Me
-[![GitHub](https://img.shields.io/badge/GitHub-toko--stark-181717?style=for-the-badge&logo=github)](https://github.com/toko-stark)
+[![GitHub](https://img.shields.io/badge/GitHub-toko--stark-181717?style=for-the-badge&logo=github)](https://github.com/toko-stark))
 [![Discord]([https://discord.com/users/789894696176058368](https://img.shields.io/badge/Discord-toko__stark-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/789894696176058368))
 
 ---
