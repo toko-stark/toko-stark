@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 16 year old from Germany who likes full stack development, mostly with JavaScript and some other languages.<br><br>I enjoy working on projects, learning new things, and sometimes using AI to help with coding.
+I'm a 16 year old from Germany who likes full stack development, mostly with JavaScript and some other languages.<br><br>I enjoy working on projects, learning new things, and sometimes using AI to help with coding. <br><br> I be vibe coding alot at the time, if your curios xd
 
 
 ## 🌐 Socials:
