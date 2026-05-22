@@ -44,16 +44,32 @@ And yeah, I vibe code way more than I probably should.
 
 <h2 align="center">Featured projects</h2>
 
-<p align="center">
+<div align="center">
 
-| Project | What it is |
-| :--- | :--- |
-| [Portfolio](https://tokodev.xyz/) | My personal site, live at tokodev.xyz |
-| [NutriVisionAi](https://toko-stark.github.io/NutriVisionAi/) | Frontend for an AI meal tracker that gives you macros |
-| [readme-generator](https://github.com/toko-stark/readme-generator) | AI README generator that reads your GitHub repo |
-| [100-days-of-projects](https://github.com/toko-stark/100-days-of-projects) | Daily frontend builds to get better at coding |
+<table>
+  <tr>
+    <th>Project</th>
+    <th>What it is</th>
+  </tr>
+  <tr>
+    <td><a href="https://tokodev.xyz/">Portfolio</a></td>
+    <td>My personal site, live at tokodev.xyz</td>
+  </tr>
+  <tr>
+    <td><a href="https://toko-stark.github.io/NutriVisionAi/">NutriVisionAi</a></td>
+    <td>Frontend for an AI meal tracker that gives you macros</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/toko-stark/readme-generator">readme-generator</a></td>
+    <td>AI README generator that reads your GitHub repo</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/toko-stark/100-days-of-projects">100-days-of-projects</a></td>
+    <td>Daily frontend builds to get better at coding</td>
+  </tr>
+</table>
 
-</p>
+</div>
 
 ---
 
