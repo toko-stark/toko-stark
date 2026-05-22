@@ -1,27 +1,76 @@
-# 💫 About Me:
-I'm a 16 year old from Germany who likes full stack development, mostly with JavaScript and some other languages.<br><br>I enjoy working on projects, learning new things, and sometimes using AI to help with coding. <br><br> I be vibe coding alot at the time, if your curios xd
+<h1 align="center">Hey, I'm toko</h1>
 
+<p align="center">
+  16 y/o dev from Germany. I mostly do JavaScript stuff: Discord bots, Minecraft bots, AI things, and websites.
+</p>
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:toko.stark@icloud.com) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=toko-stark&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=toko-stark&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=toko-stark&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://tokodev.xyz/"><img src="https://img.shields.io/badge/Portfolio-tokodev.xyz-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://guns.lol/tokodev"><img src="https://img.shields.io/badge/guns.lol-tokodev-1F1F1F?style=for-the-badge"></a>
+  <a href="mailto:toko.stark@icloud.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Discord-xtoko.dev-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=toko-stark&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2 align="center">About me</h2>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+Right now I'm busy making stuff for <a href="https://donutsmp.net">DonutSMP.net</a>, mainly AFK clients and macros.<br>
+I learned most of the basics from Jonas Schmedtmann's courses (HTML/CSS, JavaScript, and Node.js).<br>
+Outside of that I mess around with Discord bots, the Gemini API, and random side projects.<br>
+And yeah, I vibe code way more than I probably should.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=toko-stark&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2 align="center">Tech I use</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,java&theme=dark" />
+  </a>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,cloudflare,git,github,figma&theme=dark" />
+  </a>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discordjs,vscode,npm,vite,tailwind&theme=dark" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">Featured projects</h2>
+
+<p align="center">
+
+| Project | What it is |
+| :--- | :--- |
+| [Portfolio](https://tokodev.xyz/) | My personal site, live at tokodev.xyz |
+| [NutriVisionAi](https://toko-stark.github.io/NutriVisionAi/) | Frontend for an AI meal tracker that gives you macros |
+| [readme-generator](https://github.com/toko-stark/readme-generator) | AI README generator that reads your GitHub repo |
+| [100-days-of-projects](https://github.com/toko-stark/100-days-of-projects) | Daily frontend builds to get better at coding |
+
+</p>
+
+---
+
+<h2 align="center">GitHub stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=toko-stark&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://streak-stats.demolab.com/?user=toko-stark&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=toko-stark&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=toko-stark&style=flat-square&color=7C3AED" />
+</p>
